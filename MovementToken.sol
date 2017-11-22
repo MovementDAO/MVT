@@ -2,6 +2,7 @@
   * The Movement DAO
   * Decentralized Autonomous Organization
   * Connect and Create 
+  * Smart Contract Address: 0x3D46454212c61ECb7b31248047Fa033120B88668
   */
 
 
