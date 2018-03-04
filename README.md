@@ -13,4 +13,4 @@ There are 3 million MVT in total, of which 2,700,000 were initially distributed 
 
 ENS Domains: **themovement.eth**, **movementdao.eth**
 
-Decimals: 18, Ticker: MVT
+Decimals: 18, Ticker: MVT, Type: Utility token
